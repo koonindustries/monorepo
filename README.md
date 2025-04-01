@@ -5,3 +5,8 @@ Monorepo for the service
 
 - Local first (avaliable offline)
 - Vim controls
+
+## Timeline
+
+- auth - Centralized control for user authentication
+- admin - Manage users
